@@ -1,6 +1,6 @@
 AUTHOR = 'Me'
 SITENAME = ''
-SITEURL = ''
+SITEURL = 'https://ihucos.github.io/clickbait/'
 THEME='./attila'
 SITESUBTITLE = ''
 HOME_COVER='images/cover.png'
