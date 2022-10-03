@@ -1,7 +1,7 @@
-Title: Benefits of alcohol consumption.
+Title: Moderate alcohol
 Date: 2022-06-01
 Authors: Dr. Its Legit
-Summary: We all know it. 
+Summary: The Pros and Cons of Drinking Alcohol. 
 ![Chocolate]({filename}/images/alcohol.png)
 
 It is no secret that alcohol has been around for centuries and has played a
