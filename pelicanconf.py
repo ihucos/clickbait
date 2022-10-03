@@ -1,7 +1,7 @@
 AUTHOR = 'Me'
 SITENAME = ''
 SITEURL = ''
-RELATIVE-URLS = False
+RELATIVE_URLS = False
 THEME='./attila'
 SITESUBTITLE = ''
 HOME_COVER='images/cover.png'
