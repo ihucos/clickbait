@@ -1,7 +1,7 @@
 Title: Chocolate is healthy
 Date: 2022-09-04
 Authors: Dr. Its Legit
-Summary: Five health benefits of eating chocolate.
+Summary: Five Health Benefits of Eating Chocolate.
 
 ![Chocolate]({filename}/images/chocolate.png)
 
